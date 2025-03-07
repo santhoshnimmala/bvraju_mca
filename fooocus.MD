@@ -1,5 +1,5 @@
 
-## **11. Deploying Fooocus**
+## ** Deploying Fooocus**
 
 ### **1. Create and Activate Fooocus Environment**
 
